@@ -1,0 +1,16 @@
+customer_id,amount,mode,payment_date
+101,75,Debit Card,12-10-2021
+102,55,Cash,05-02-2023
+103,120,Mobile Payment,22-08-2020
+104,45,Credit Card,10-03-2021
+105,85,Netbanking,30-11-2021
+106,70,Cash,19-04-2022
+107,25,Debit Card,13-08-2022
+108,95,Mobile Payment,28-05-2020
+109,65,Credit Card,15-12-2021
+110,40,Netbanking,04-07-2021
+111,50,Cash,01-09-2023
+112,110,Debit Card,17-01-2023
+113,35,Mobile Payment,23-06-2022
+114,80,Credit Card,08-03-2020
+115,50,Netbanking,29-11-2022
